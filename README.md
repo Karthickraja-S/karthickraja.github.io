@@ -1,2 +1,2 @@
 # karthickraja.github.io
-Be simple and loyal
+Starting a github repository here 
